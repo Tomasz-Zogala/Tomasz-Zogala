@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tomasz Żogała</h1>
-<h3 align="center">2nd Year Student of Silesian University of Technology And Future Java Developer (I hope so 🤞)</h3>
+<h3 align="center">2nd Year Student of Silesian University of Technology</h3>
 <img align = "right" alt = "Coding" width="400" src="https://media.licdn.com/dms/image/C5612AQG7GnrlpoBG9w/article-cover_image-shrink_600_2000/0/1594835668489?e=2147483647&v=beta&t=mF86lNdLR5b2TX-ozWUatJ3PEXVJdB2HuraH3nIr5Ww"
 
 - 🔭 I’m currently working on **Movie-Service-System in Java**
