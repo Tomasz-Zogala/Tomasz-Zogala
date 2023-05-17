@@ -1,9 +1,6 @@
 # 💫 About Me:
 💡 I'm currently building a programming portfolio<br>⭐ I'm currently learning Java/Spring, Go (It's Blazingly Fast), SQL<br>💭 My soft skills are: Work ethic, Communicativeness, Creativeness, Positive attitude<br>🗣️ I can speak in: 🇵🇱Polish (Native), 🇬🇧English (Upper Intermediate)<br>📚 I'm currently a second-year student of Informatics (Computer Science) <br>🏫 At Silesian University of Technology in Gliwice
 
-<img align = "right" alt = "Coding" width="400" src="https://media.licdn.com/dms/image/C5612AQG7GnrlpoBG9w/article-cover_image-shrink_600_2000/0/1594835668489?e=2147483647&v=beta&t=mF86lNdLR5b2TX-ozWUatJ3PEXVJdB2HuraH3nIr5Ww"
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Tomasz-Żogała) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/TomaszZogala) 
 
