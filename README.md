@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Movie-Service-System in Java**
 
-- 🌱 I’m currently learning **Spring, JUnit, Docker, Kubernetes**
+- 🌱 I’m currently learning **Spring, JUnit, Docker, Go**
 
 - 📫 How to reach me **tomasz.jakub.zogala@gmail.com**
 
