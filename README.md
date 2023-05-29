@@ -1,5 +1,5 @@
 ### 💫 About Me:
-💡 I'm currently building a programming portfolio<br>⭐ I'm currently learning Java/Spring, Go (It's Blazingly Fast), SQL<br>💭 My soft skills are: Work ethic, Communicativeness, Creativeness, Positive attitude<br>🗣️ I can speak in: 🇵🇱Polish (Native), 🇬🇧English (Upper Intermediate)<br>📚 I'm currently a second-year student of Informatics (Computer Science) <br>🏫 At Silesian University of Technology in Gliwice
+💡 I'm currently building a programming portfolio<br>⭐ I'm currently learning Java/Spring, Java/Hibernate, SQL<br>💭 My soft skills are: Work ethic, Communicativeness, Creativeness, Positive attitude<br>🗣️ I can speak in: 🇵🇱Polish (Native), 🇬🇧English (Upper Intermediate)<br>📚 I'm currently a second-year student of Informatics (Computer Science) <br>🏫 At Silesian University of Technology in Gliwice
 
 ### 🌐 Socials:
 
@@ -20,7 +20,7 @@
 
 ### 💻 Tech Stack:
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Python](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-1DA1F2.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Python](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-1DA1F2.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 📊 GitHub Stats:
 
