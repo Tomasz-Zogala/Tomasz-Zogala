@@ -32,5 +32,9 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 
-[![](https://visitcount.itsvg.in/api?id=Tomasz-Zogala&icon=3&color=10)](https://visitcount.itsvg.in)
+### 📊 GitHub Stats:
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tomasz-Zogala&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=false" height="140" alt="languages graph"  />
+</div>
 
+[![](https://visitcount.itsvg.in/api?id=Tomasz-Zogala&icon=3&color=10)](https://visitcount.itsvg.in)
