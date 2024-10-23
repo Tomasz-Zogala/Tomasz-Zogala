@@ -1,5 +1,5 @@
 # 💫 About Me:
-💡 I'm currently building a programming portfolio <br>⚙️ I'm working with SAP Commerce Cloud in SAP Poland Labs<br>📚 I'm currently a third-year student of Informatics (Computer Science)<br>🏫 I'm at Silesian University of Technology in Gliwice<br>⭐ I'm currently learning Typescript and Angular (Spartacus)<br>💭 My soft skills are: Work ethic, Communicativeness, Creativeness, Positive attitude<br>🗣️ I can speak in: 🇵🇱Polish (Native), 🇬🇧English (Upper Intermediate)
+💡 I'm currently building a programming portfolio <br>⚙️ I'm working with SAP Commerce Cloud in SAP Poland Labs<br>📚 I'm currently a fourth-year student of Informatics (Computer Science)<br>🏫 I'm at Silesian University of Technology in Gliwice<br>⭐ I'm currently learning Typescript and Angular <br>💭 My soft skills are: Work ethic, Communicativeness, Creativeness, Positive attitude<br>🗣️ I can speak in: 🇵🇱Polish (Native), 🇬🇧English (Upper Intermediate)
 
 ### 🌐 Socials:
 
@@ -15,19 +15,12 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 
 ###
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-
-###
-
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
